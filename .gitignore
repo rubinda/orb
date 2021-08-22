@@ -1,0 +1,13 @@
+orb_final.pdf
+rosten_2006_fast.pdf
+fast_primer.py
+.idea/
+results/*.jpg
+results/*.png
+*.zip
+
+images/*
+!images/blox.jpg
+!images/lenna.jpg
+!images/testna_slika.png
+!images/testna_slika_45.png
